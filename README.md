@@ -51,9 +51,9 @@ This function implements resource-specific health checks for standard Kubernetes
 - [ ] NetworkPolicy
 
 ### RBAC (rbac.authorization.k8s.io/v1)
-- [ ] Role
+- [x] Role
 - [ ] ClusterRole
-- [ ] RoleBinding
+- [x] RoleBinding
 - [ ] ClusterRoleBinding
 
 ### Storage (storage.k8s.io/v1)
